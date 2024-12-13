@@ -4,13 +4,13 @@ import { getFirestore } from "firebase/firestore";
 
 // Configuración del proyecto Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyBa_Aa32dNYJATDWkbmraIJVVY3GGVMrDI",
-  authDomain: "matespatt.firebaseapp.com",
-  projectId: "matespatt",
-  storageBucket: "matespatt.firebasestorage.app",
-  messagingSenderId: "65663623310",
-  appId: "1:65663623310:web:cc47b80a699850eb4b29df",
-  measurementId: "G-K0ZTM0MRM7"
+  apiKey: "AIzaSyCSkIwuKlGtb25NSclyZJz7XOflESKmWjk",
+  authDomain: "mates-85160.firebaseapp.com",
+  projectId: "mates-85160",
+  storageBucket: "mates-85160.firebasestorage.app",
+  messagingSenderId: "150577413256",
+  appId: "1:150577413256:web:800c72936d623ab04eb33d",
+  measurementId: "G-YERWD1ZZCS"
 };
 
 // Inicializar la app de Firebase
