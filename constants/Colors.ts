@@ -1,0 +1,6 @@
+export default{
+  FONDO: '#FFF1FF',
+  TEXTOPRINCIPAL: '#D59BD7',
+  BLANCO: '#FCF7FC',
+  ROSITA: '#E6C0E7'
+}
