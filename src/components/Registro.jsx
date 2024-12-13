@@ -3,7 +3,7 @@ import { auth, db } from "../firebase/Config";
 import { createUserWithEmailAndPassword } from "firebase/auth";
 import { Link, useNavigate } from "react-router-dom";
 import { setDoc, doc } from "firebase/firestore";
-import BarraArriba from "../components/BarraArriba";
+import BarraArriba from "./";
 
 function Registro() {
   const [nombre, setNombre] = useState("");

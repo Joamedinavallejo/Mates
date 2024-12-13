@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
-import BotonLogin from "../components/BotonLogin";
-import BarraArriba from "../components/BarraArriba";
-import ProductosClientes from "../components/ProductosClientes";
+import BotonLogin from "./BotonxLogin";
+import BarraArriba from "./";
+import ProductosClientes from "./ProductosxClientes";
 import CarritoDeCompras from "../components/CarritoDeCompras";
 
 const Principal = () => {

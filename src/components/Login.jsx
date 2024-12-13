@@ -4,7 +4,7 @@ import { signInWithEmailAndPassword } from "firebase/auth";
 import { Link, useNavigate } from "react-router-dom";
 import { doc, getDoc } from "firebase/firestore";
 import { db } from "../firebase/Config";
-import BarraArriba from "../components/BarraArriba";
+import BarraArriba from "./";
 
 function Login() {
   const [email, setEmail] = useState("");

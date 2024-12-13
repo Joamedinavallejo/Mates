@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { collection, getDocs, addDoc, updateDoc, deleteDoc, doc } from "firebase/firestore";
 import { db } from "../firebase/Config";
-import BarraArriba from "../components/BarraArriba";
+import BarraArriba from "./";
 
 const GestionProductos = () => {
   const [productos, setProductos] = useState([]);

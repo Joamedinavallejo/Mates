@@ -1,8 +1,8 @@
 import React, { useState } from "react";
-import BotonLogin from "../components/BotonLogin";
-import BarraArribaUsuario from "../components/BarraArribaUsuario";
-import ProductosClientes from "../components/ProductosClientes";
-import CarritoDeCompras from "../components/CarritoDeCompras";
+import BotonLogin from "./BotonxLogin";
+import BarraArribaUsuario from "./FormatoArribaUsuario";
+import ProductosClientes from "./ProductosxClientes";
+import CarritoDeCompras from "./CarritoDeCompras";
 
 const Principal = () => {
   const [carrito, setCarrito] = useState([]);

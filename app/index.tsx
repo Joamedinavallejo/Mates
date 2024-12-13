@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Registro from "../src/components/Registro";
 import Login from "../src/components/Login";
 import Principal from "../src/components/Principal";
-import BarraArriba from "../src/components/BarraArriba";
+import BarraArriba from "../src/components/";
 import GestionProductos from "@/src/components/GestionProductos";
 import PrincipalUsuario from "@/src/components/PrincipalUsuario";
 
